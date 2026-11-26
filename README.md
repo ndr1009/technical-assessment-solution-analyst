@@ -6,9 +6,7 @@ Dokumen jawaban **Technical Assessment – Solution Analyst** untuk perancangan 
 
 ## Dokumen
 
-| Format | File |
-|---|---|
-| PDF (bisa dibaca langsung di GitHub) | [Solution_Design_Pinjaman_Online_PT_XYZ_v1_final.pdf](Solution_Design_Pinjaman_Online_PT_XYZ_v1_final.pdf) |
+📄 [Baca dokumen (PDF)](<Solution Analyst_Design Pinjaman Online_Andre Oktora.pdf>)
 
 ## Peta Jawaban Tugas
 
